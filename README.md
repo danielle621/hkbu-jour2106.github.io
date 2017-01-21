@@ -26,7 +26,7 @@
 * Student 21
 * Student 22
 * Student 23
-* Student 24
+* Student 24 https://github.com/danielle621
 * Student 25
 * Student 26
 * Student 27
